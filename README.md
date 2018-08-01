@@ -4,6 +4,6 @@ This was implemented for the discipline Topics on Parallel Computing at São Pau
 This projected tries to parallelize the K-Means algorithm using Python. 
 I implemented two different approaches:
   # Concurrent K-Means
-    which used Process
+    which used Process and is in ConcurrentKMeans.py
   # Parallel K-Means
-    which used Threads.  
+    which used Threads and is in ParallelKMeans.py
