@@ -7,3 +7,4 @@ I implemented two different approaches:
     which used Process and is in ConcurrentKMeans.py
   # Parallel K-Means
     which used Threads and is in ParallelKMeans.py
+The results and discussion can be found in the .PDF file above
